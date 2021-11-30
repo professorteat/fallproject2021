@@ -69,3 +69,4 @@ Students:
 |EA|Eayimadu|Eayimadu|
 |JN|jerrytatenance|jerrytatenance|
 |NA|nalexa|nalexa|
+|JK|jkierna1|jkierna1|
